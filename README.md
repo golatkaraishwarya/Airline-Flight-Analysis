@@ -10,11 +10,11 @@
 By analyzing this dataset, the goal is to present a comprehensive overview of various metrics such as flight delays, cancellations, and helping airport authorities address operational challenges. Follow these steps for the data visualization part:
 
 ## Flight Data Analysis Process
-> Use Cards to display total airline, total airports, total flights, total distance, total air time.
-> Plot Bar Charts to show flight analysis by airline.
-> Plot Pie Chart to analyze the magnitude of flight delays based on various factors.
-> Design Decomposition Tree to visualize flight status analysis for airport operations.
-> Prepare Matrix to analyze months by flight status(on time flight, delayed flight, cancelled flight).
+- Use Cards to display total airline, total airports, total flights, total distance, total air time.
+- Plot Bar Charts to show flight analysis by airline.
+- Plot Pie Chart to analyze the magnitude of flight delays based on various factors.
+- Design Decomposition Tree to visualize flight status analysis for airport operations.
+- Prepare Matrix to analyze months by flight status(on time flight, delayed flight, cancelled flight).
 
 ## Key Business Questions to Explore(KPIs)
 - What are the patterns and trends in flight delays and cancellations over time?
