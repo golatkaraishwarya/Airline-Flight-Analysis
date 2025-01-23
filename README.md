@@ -17,7 +17,12 @@ By analyzing this dataset, the goal is to present a comprehensive overview of va
 - Prepare Matrix to analyze months by flight status(on time flight, delayed flight, cancelled flight).
 
 ## Dashboard
-
+- 2018 AIRLINE FLIGHT ANALYSIS - SUMMARY
+<a href="https://github.com/golatkaraishwarya/Airline-Flight-Analysis/blob/main/Summary.png"></a>
+- AIRLINE FLIGHT STATUS ANALYSIS
+<a href="https://github.com/golatkaraishwarya/Airline-Flight-Analysis/blob/main/Flight%20Status.png"></a>
+- AIRLINE MONTHLY ANALYSIS
+<a href="https://github.com/golatkaraishwarya/Airline-Flight-Analysis/blob/main/Monthly%20Analysis.png"></a>
 
 ## Key Business Questions to Explore(KPIs)
 - What are the patterns and trends in flight delays and cancellations over time?
