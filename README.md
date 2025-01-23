@@ -18,11 +18,12 @@ By analyzing this dataset, the goal is to present a comprehensive overview of va
 
 ## Dashboard
 - 2018 AIRLINE FLIGHT ANALYSIS - SUMMARY
-<a href="https://github.com/golatkaraishwarya/Airline-Flight-Analysis/blob/main/Summary.png"></a>
+  ![Summary](https://github.com/user-attachments/assets/f7dfead4-1d80-4d20-b3c5-3ff75ff58a40)
 - AIRLINE FLIGHT STATUS ANALYSIS
-<a href="https://github.com/golatkaraishwarya/Airline-Flight-Analysis/blob/main/Flight%20Status.png"></a>
+  ![Flight Status](https://github.com/user-attachments/assets/f3bc346d-d6db-460e-b730-03bcae8dd1b8)
 - AIRLINE MONTHLY ANALYSIS
-<a href="https://github.com/golatkaraishwarya/Airline-Flight-Analysis/blob/main/Monthly%20Analysis.png"></a>
+  ![Monthly Analysis](https://github.com/user-attachments/assets/3311c2c8-6996-452a-b4dd-572beac196aa)
+
 
 ## Key Business Questions to Explore(KPIs)
 - What are the patterns and trends in flight delays and cancellations over time?
