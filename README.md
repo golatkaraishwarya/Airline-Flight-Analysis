@@ -16,6 +16,9 @@ By analyzing this dataset, the goal is to present a comprehensive overview of va
 - Design Decomposition Tree to visualize flight status analysis for airport operations.
 - Prepare Matrix to analyze months by flight status(on time flight, delayed flight, cancelled flight).
 
+## Dashboard
+
+
 ## Key Business Questions to Explore(KPIs)
 - What are the patterns and trends in flight delays and cancellations over time?
 - How do delays and cancellations differ by airline, destination, or time of day?
